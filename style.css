@@ -45,4 +45,10 @@ p , span{
     font-size: 20px;
     
 }
+.playagain {
+     padding: 20px;
+     background-color: skyblue;
+     font-size: 20px;
+     font-weight: 700;
+}
 

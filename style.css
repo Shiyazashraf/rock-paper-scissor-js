@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifS;
+}
+
+body {
+    background-color: rgb(74, 74, 74);
+}
+
+.header {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+
+}
+
+.score-container {
+    display: flex;
+    gap: 50px;
+}
+
+.button {
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 700;
+    
+}
+
+p , span{
+    color:white;
+    font-size: 20px;
+    
+}
+
